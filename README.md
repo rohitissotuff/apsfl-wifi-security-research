@@ -10,7 +10,7 @@ This project explores a suspected password-generation pattern associated with le
 ## Contents
 
 - [`RESEARCH.md`](RESEARCH.md): Research background, methodology, calculations, and limitations.
-- `generator.py`: Python script demonstrating combinatorial generation.
+- [`generator.py`](generator.py): Python script demonstrating combinatorial generation.
 
 ## Purpose
 
@@ -74,4 +74,4 @@ Unless explicitly stated otherwise, this project is independent research and is 
 
 ## License
 
-See the `LICENSE` file for the applicable terms governing use, modification, and redistribution.
+See the [`LICENSE`](LICENSE.md) file for the applicable terms governing use, modification, and redistribution.
