@@ -39,11 +39,13 @@ This project explores predictable password formats for educational and defensive
 
 ## Responsible Use
 
-Users are responsible for understanding the technical and legal implications of their activities before using this project.
+This project is provided for educational and defensive security research.
 
-The author does not authorise or encourage unlawful access, credential theft, disruption of services, or other misuse. Access to this repository does not grant permission to test any particular network or device.
+Anyone using, modifying, or redistributing this project is expected to comply with applicable laws and obtain appropriate authorisation before testing any network or device.
 
-Use this project only in controlled environments or assessments for which appropriate authorisation has been obtained.
+The author does not endorse unauthorised access, credential theft, or disruption of network services.
+
+This notice does not guarantee immunity from legal liability or override the terms of the applicable software license.
 
 ## Disclaimer of Warranties
 
